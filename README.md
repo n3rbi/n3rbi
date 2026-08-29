@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="Benji of the man" width="100%">
+  <img src="img.png" alt="Benji of the man" width="100%"">
 </p>
 
 <h1 align="center">Hey, I'm Benji 👋</h1>
@@ -16,7 +16,7 @@
 
 ### 🧭 about
 
-I'm a college student in the UK who spends most of my free time self-hosting, scripting, and modding. I like building tools that make messing around with people easier - e.g. Clippy, a screen-aware desktop companion, an idle card game. Currently working on rebuilding my foundations on old spaghetti code, learning to properly split up a multi file through my projects..
+I'm a college student in the UK who spends most of my free time self-hosting, scripting, and modding.
 
 - 🔭 Currently self-hosting a home media server, multiple running dc bots (ClippyClippy), and a modded Minecraft server
 - 🌱 Learning to code professionally
