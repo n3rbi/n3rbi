@@ -55,8 +55,6 @@ A few things running on my own hardware:
 
 ---
 
-### 📫 reach me
-
 <p align="center">
   <a href="https://discord.com/users/yo_bi"><img src="https://img.shields.io/badge/Discord-yo__bi-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/yo_bee3232"><img src="https://img.shields.io/badge/Instagram-yo__bee3232-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
