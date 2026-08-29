@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="img.png" alt="Benji of the man" width="100%"">
-</p>
-
 <h1 align="center">Hey, I'm Benji 👋</h1>
-<p align="center">College student · self-hoster · builder of small, weird, useful things</p>
+<p align="center">College student · self-hoster · programmer</p>
+
+<p align="center">
+  <img src="img.png" alt="Benji of the man" width="50%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
